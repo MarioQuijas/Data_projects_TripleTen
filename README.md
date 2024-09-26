@@ -3,31 +3,65 @@
 This repository contains data analysis projects completed as part of my Business Intelligence Analyst training with TripleTen.
 
 ## Table of Contents
-1. [Advanced Spreadsheets Project](Advanced_Spreadsheets_Project/README1.md)
-2. [Business Analytics Project](Business_Analytics_Project/README2.md)
-3. [Tableau Zomato Thesis Project](Zomato_Data_Thesis/README3.md)
-4. [Data Visualization with Tableau](Data_Visualization_Tableau/README4.md)
+1. [Advanced Spreadsheets Project]
+2. [Business Analytics Project]
+3. [Tableau Zomato Thesis Project]
+4. [Data Visualization with Tableau]
 
 ---
 
 ## Project Overviews
 
 ### 1. Advanced Spreadsheets Project
-A data analysis project using advanced Excel functions, including pivot tables and VLOOKUP, to draw actionable insights.
+## Overview
+This project focused on analyzing Zomato restaurant data using Tableau to identify customer trends and restaurant performance.
+## Skills and Tools Used
+- Tableau (Data Visualization, Dashboard Creation)
+- Data Analysis
+## Links
+- [View the Project](https://public.tableau.com/views/ZomatoDataThesiss/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-[View Project Details](Advanced_Spreadsheets_Project/README1.md)
 
 ### 2. Business Analytics Project
-An in-depth analysis using Excel to focus on metrics and trends to provide actionable business insights.
+# Business Analytics Project
 
-[View Project Details](Business_Analytics_Project/README2.md)
+## Overview
+In this project, I analyzed business performance data using Excel to gain insights into key metrics and trends.
+
+## Skills and Tools Used
+- Microsoft Excel (Data Analysis, Data Cleaning, Pivot Tables)
+- Data Visualization
+- Business Analytics
+
+## Links
+- [View the Project](https://docs.google.com/spreadsheets/d/1yNtEF3PdMPCyXflR1qOk7uxlwhqE_T0cKeUYwjkzNBM/edit?usp=sharing)
+
 
 ### 3. Tableau Zomato Thesis Project
-Created an interactive Tableau dashboard to analyze restaurant data, identifying key customer trends and providing recommendations.
+# Tableau Zomato Thesis Project
 
-[View Project Details](Zomato_Data_Thesis/README3.md)
+## Overview
+This project focused on analyzing Zomato restaurant data using Tableau to identify customer trends and restaurant performance.
+
+## Skills and Tools Used
+- Tableau (Data Cleaning, Data Visualization, Dashboard Creation)
+- Data Analysis
+
+## Links
+- [View the Project](https://public.tableau.com/views/ZomatoDataThesiss/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 ### 4. Data Visualization with Tableau
-Developed dynamic dashboards in Tableau to visualize sales, revenue, and customer trends.
+# Data Visualization with Tableau
 
-[View Project Details](Data_Visualization_Tableau/README4.md)
+## Overview
+This project involved creating interactive dashboards using Tableau to visualize key data insights.
+
+## Skills and Tools Used
+- Tableau (Data Visualization, Dashboard Creation)
+- Data Analysis
+- Data Storytelling
+
+## Links
+- [View the Project](https://public.tableau.com/app/profile/mario.quijas/viz/shared/W4ZJ85JNR)
+
